@@ -1,0 +1,18 @@
+### OSX template
+.DS_Store
+
+### Composer template
+composer.phar
+composer.lock
+
+### Windows template
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### Linux template
+*~
+.directory
+
+### JetBrains template
+.idea

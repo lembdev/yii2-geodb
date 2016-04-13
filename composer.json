@@ -1,0 +1,21 @@
+{
+  "name": "lembadm/yii2-geodb",
+  "description": "The yii2-geodb geographical database, covers all countries and more than four million cities",
+  "keywords": ["yii2", "geodb", "cities", "countries", "geodb"],
+  "type": "yii2-extension",
+  "license": "CC-BY-3.0",
+  "authors": [
+    {
+      "name": "Alexander Vizhanov",
+      "email": "lembadm@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "lembadm\\geodb\\": ""
+    }
+  }
+}
