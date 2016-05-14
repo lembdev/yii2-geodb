@@ -13,6 +13,7 @@ Provide controller for Select2 input widget
 
 ## Requirements
 * The minimum requirement by Yii is that your Web server supports PHP 5.5.
+* PHP extention `ext-zip`
 * `memory_limit` set to >= 128Mb
 
 ## Installation
